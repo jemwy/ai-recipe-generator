@@ -1,1 +1,1 @@
-# ai-recipe-generator
+# AWS Builder Center Projects
